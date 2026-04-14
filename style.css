@@ -196,6 +196,11 @@ section {
   color: #000;
 }
 
+
+.name{
+  colo: #000;
+}
+
 .project-title {
   display: flex;
   justify-content: space-between;
